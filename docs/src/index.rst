@@ -47,7 +47,7 @@ Table of Contents
 -----------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    contributions
    api/index
