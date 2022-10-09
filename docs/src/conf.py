@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'DCS Beginners Guide to Systems Coding'
+project = 'BGSC'
 copyright = '2022, vapourlabs'
 author = 'vapourlabs'
 
@@ -14,5 +14,5 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-html_theme = 'press'
+html_theme = 'alabaster'
 html_static_path = ['_static']
