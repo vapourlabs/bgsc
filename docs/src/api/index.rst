@@ -13,3 +13,4 @@ Lua Devices
     :maxdepth: 2
     
     avLuaDevice
+    avSimpleWeaponSystem
