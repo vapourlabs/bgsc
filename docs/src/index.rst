@@ -26,6 +26,9 @@ incorporate them into their mods. Going headfirst into systems coding can be
 frightening at first, so it is our mission to make easily digestible for
 beginners.
 
+Looking at getting started? Check out our :ref:`Quickstart <ref_quickstart>`
+guide. 
+
 Prerequisites
 -------------
 
@@ -49,6 +52,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 1
    
+   quickstart
    contributions
    api/index
 
