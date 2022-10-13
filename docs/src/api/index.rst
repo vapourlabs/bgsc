@@ -14,3 +14,23 @@ Lua Devices
     
     avLuaDevice
     avSimpleWeaponSystem
+
+Lua Functions
+-------------
+
+..
+  It may be best to sort this toctree alphabetically. To do this in Emacs,
+  select a region and use 'M-x sort-lines'.
+
+.. toctree::
+    :maxdepth: 1
+
+    get_aircraft_draw_argument_value
+    set_aircraft_draw_argument_value
+    show_param_handles_list
+
+Lua Modules
+-----------
+
+.. toctree::
+    :maxdepth: 2
