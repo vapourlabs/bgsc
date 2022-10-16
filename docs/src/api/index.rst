@@ -29,8 +29,18 @@ Lua Functions
     set_aircraft_draw_argument_value
     show_param_handles_list
 
-Lua Modules
------------
+Lua Modules/Tables
+------------------
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
+
+    LockOn_Options
+
+Extra Lua Examples
+------------------
+
+.. toctree::
+    :maxdepth: 1
+
+    lua_modules
